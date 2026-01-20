@@ -3,7 +3,7 @@
 >
 > For **ROS2, PX4, ArduPilot, YOLO, and LiDAR**, also try our [`aerial-autonomy-stack`](https://github.com/JacopoPan/aerial-autonomy-stack)
 
-# gym-pybullet-drones
+# gym-pybullet-drones 
 
 Это минималистичная рефакторизация оригинального репозитория `gym-pybullet-drones`, разработанная для обеспечения совместимости с [`gymnasium`](https://github.com/Farama-Foundation/Gymnasium), [`stable-baselines3` 2.0](https://github.com/DLR-RM/stable-baselines3/pull/1327), and [`betaflight`](https://github.com/betaflight/betaflight)/[`crazyflie-firmware`](https://github.com/bitcraze/crazyflie-firmware/) SITL.
 
